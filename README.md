@@ -9,7 +9,7 @@ angluar.js https://github.com/angular/angular
 js一些相关的冷知识 http://www.cnblogs.com/libin-1/p/5999197.html
 
 
-面试遇到相关知识：
+<br>面试遇到相关知识：
 1、什么是闭包
 2、什么是原型链
 3、var k = $(obj);
